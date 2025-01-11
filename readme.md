@@ -20,4 +20,6 @@ This project is a ChatBot designed for a Learning Management System (LMS). The C
     cd ChatBot-for-LMS
     ```
 3. Install the required dependencies:
+    ```bash
     pip install -r requirements.txt
+    ```a
