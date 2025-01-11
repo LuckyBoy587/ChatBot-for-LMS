@@ -13,7 +13,7 @@ This project is a ChatBot designed for a Learning Management System (LMS). The C
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ChatBot-for-LMS.git
+    git clone https://github.com/LuckyBoy587/ChatBot-for-LMS.git
     ```
 2. Navigate to the project directory:
     ```bash
