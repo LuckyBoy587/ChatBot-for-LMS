@@ -1,0 +1,119 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hello",
+          "Hey",
+          "Good morning",
+          "Good evening",
+          "How are you?"
+        ],
+        "responses": [
+          "Hello! How can I assist you with your courses today?",
+          "Hi there! What can I help you with?",
+          "Hey! Need help with your learning journey?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Bye",
+          "Goodbye",
+          "See you later",
+          "Talk to you soon"
+        ],
+        "responses": [
+          "Goodbye! Have a great day!",
+          "See you soon! Keep learning!",
+          "Bye! Feel free to reach out anytime."
+        ]
+      },
+      {
+        "tag": "enrollment",
+        "patterns": [
+          "How can I enroll in a course?",
+          "I want to join a course",
+          "Can you help me enroll in a course?",
+          "How do I sign up for a course?"
+        ],
+        "responses": [
+          "To enroll in a course, navigate to the 'Courses' section, select the course you want, and click on 'Enroll'.",
+          "You can enroll by visiting the course page and clicking the 'Enroll Now' button.",
+          "Sure! Go to the 'Courses' tab, pick a course, and press 'Join'."
+        ]
+      },
+      {
+        "tag": "assignments",
+        "patterns": [
+          "How can I view my assignments?",
+          "Where are my assignments?",
+          "Show me my assignments",
+          "I need help with my assignments"
+        ],
+        "responses": [
+          "You can view your assignments in the 'Assignments' section of your dashboard.",
+          "Go to the 'My Assignments' tab to see all your tasks.",
+          "Assignments are available under the 'Assignments' menu on your dashboard."
+        ]
+      },
+      {
+        "tag": "grades",
+        "patterns": [
+          "How can I check my grades?",
+          "Where can I see my grades?",
+          "Show me my grades",
+          "I want to view my grades"
+        ],
+        "responses": [
+          "To check your grades, visit the 'Grades' section in your dashboard.",
+          "Your grades are available under the 'Grades' tab.",
+          "Check the 'Grades' section in your profile to see your results."
+        ]
+      },
+      {
+        "tag": "reset_password",
+        "patterns": [
+          "I forgot my password",
+          "How do I reset my password?",
+          "Help me reset my password",
+          "I can't log in to my account"
+        ],
+        "responses": [
+          "To reset your password, click on 'Forgot Password' on the login page and follow the instructions.",
+          "Use the 'Forgot Password' link on the sign-in page to reset your password.",
+          "No worries! Go to the login page, click 'Forgot Password,' and follow the steps."
+        ]
+      },
+      {
+        "tag": "contact_support",
+        "patterns": [
+          "I need help",
+          "How can I contact support?",
+          "Who can I reach out to for assistance?",
+          "Is there a support team I can talk to?"
+        ],
+        "responses": [
+          "You can contact support by emailing support@luckyboy.com or calling our helpline at 123-456-7890.",
+          "Reach out to our support team at support@luckyboy.com for any assistance.",
+          "Feel free to call us at 123-456-7890 for help."
+        ]
+      },
+      {
+        "tag": "course_material",
+        "patterns": [
+          "Where can I find course materials?",
+          "How do I access course content?",
+          "Show me the course resources",
+          "I need to download the course materials"
+        ],
+        "responses": [
+          "Course materials are available in the 'Resources' section of your course dashboard.",
+          "You can access course content under the 'Course Materials' tab in your enrolled course.",
+          "Check the 'Resources' section in your course for all materials and downloads."
+        ]
+      }
+    ]
+  }
+  
