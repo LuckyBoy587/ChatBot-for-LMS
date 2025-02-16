@@ -23,3 +23,6 @@ This project is a ChatBot designed for a Learning Management System (LMS). The C
     ```bash
     pip install -r requirements.txt
     ```
+## Demo Video
+
+Download the demo video from the demo_usage folder to watch how to chat with this chatbot
